@@ -1,0 +1,690 @@
+for i in rangen range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+n range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
+for i in range
